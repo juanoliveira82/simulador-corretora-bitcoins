@@ -1,4 +1,5 @@
 // Autor: Juan Carlos Cardoso de Oliveira.
+// Autor: Gabriel Haruki Gomes Satô.
 package SistemaFinanceiro;
 
 public class Investidor extends Thread {
