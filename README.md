@@ -1,10 +1,10 @@
-## Simulação - Corretora de Bitcoins 
+## SimulaÃ§Ã£o - Corretora de Bitcoins 
 
-Aplicação para simular uma corretora de bitcoins, e investidores da criptomoeda. Desenvolvida em Java, com a utilização de threads.
+AplicaÃ§Ã£o para simular uma corretora de bitcoins, e investidores da criptomoeda. Desenvolvida em Java, com a utilizaÃ§Ã£o de threads.
 
-Trabalho de Linguagens de Programação [UENP]
+Trabalho de Linguagens de ProgramaÃ§Ã£o [UENP]
 
 ## Autores
 
-- [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82) - Estudante do curso de Ciência da Computação na Universidade Estadual do Norte do Paraná (UENP).
-- Gabriel Haruki Gomes Sato - Estudante do curso de Ciência da Computação na Universidade Estadual do Norte do Paraná (UENP).
+- [Juan Carlos Cardoso de Oliveira](https://github.com/juanoliveira82) - Estudante do curso de CiÃªncia da ComputaÃ§Ã£o na Universidade Estadual do Norte do ParanÃ¡ (UENP).
+- Gabriel Haruki Gomes SatÃ´ - Estudante do curso de CiÃªncia da ComputaÃ§Ã£o na Universidade Estadual do Norte do ParanÃ¡ (UENP).
